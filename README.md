@@ -1,3 +1,10 @@
+<!--
+CONFIG
+FULL_NAME:Julian Andres Guerra Garcia
+GITHUB_USER: julianguerra1231186@gmail.com
+CODE_ORGANIZATION: code-corhuila
+-->
+
 ![](https://github.com/julianguerra1231186-crypto/ms-orders/blob/main/miroservicio3.png)
 # ms-orders — Microservicio de Gestión de Pedidos
 ### Se deja evidencia de todas las Historias de Usuario en la mesa de trabajo:
